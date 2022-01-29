@@ -1,0 +1,24 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    background-color: #4772a3;
+    border: rgb(185, 149, 90) 10px solid;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
